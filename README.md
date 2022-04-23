@@ -3,7 +3,7 @@ Hi 👋 My name is muhammed seydali
 
 I'm a Full Stack Developer, Startup Enthusiast and Investor!!
 
-* 🌍  I'm based in trivandrum,kerala
+* 🌍  I'm based in Trivandrum,kerala
 * ✉️  You can contact me at [muhammedseydali007@gmail.com](mailto:muhammedseydali007@gmail.com)
 * 🧠  I'm learning AWS,Devops
 * ⚡  Goal: To be a part of big billion startup
