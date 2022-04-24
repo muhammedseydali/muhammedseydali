@@ -1,4 +1,4 @@
-Hi 👋 My name is muhammed seydali
+Hello✌️ My name is muhammed seydali 🙌
 =================================
 
 I'm a Full Stack Developer, Startup Enthusiast and Investor!!
