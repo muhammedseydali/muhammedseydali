@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer, Startup Enthusiast and Investor!!
 
-* 🌍  I'm based in Dubai,Unied Arab Emirates
+* 🌍  I'm based in Dubai,United Arab Emirates
 * ✉️  You can contact me at [muhammedseydali007@gmail.com](mailto:muhammedseydali007@gmail.com)
 * 🧠  I'm learning AWS,Devops
 * ⚡  Goal: To be a part of big billion startup
