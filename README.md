@@ -1,53 +1,114 @@
-# Hello✌️ My name is muhammed seydali 🙌
+<div align="center">
 
-I'm a Full Stack Developer, Startup Enthusiast and Investor!!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3382ED&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhammed+Seydali+%F0%9F%91%8B;Full+Stack+%26+Odoo+Developer;Startup+Enthusiast+%7C+Investor" alt="Typing SVG" />
 
-* 🌍  I'm based in Dubai,United Arab Emirates
-* ✉️  You can contact me at [muhammedseydali007@gmail.com](mailto:muhammedseydali007@gmail.com)
-* 🧠  I'm learning AWS,Devops
-* ⚡  Goal: To be a part of big billion startup
+<br/>
 
-<a href="https://www.github.com/muhammedseydali" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/muhammedseydali?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
+[![GitHub followers](https://img.shields.io/github/followers/muhammedseydali?logo=github&style=for-the-badge&color=3382ed&labelColor=000000)](https://github.com/muhammedseydali)
+[![Profile Views](https://komarev.com/ghpvc/?username=muhammedseydali&style=for-the-badge&color=10b981&label=PROFILE+VIEWS)](https://github.com/muhammedseydali)
 
-### Skills
+</div>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-</p>
+<br/>
 
-### Socials
+## 🧑‍💻 About Me
 
-<p align="left"> <a href="https://www.dev.to/muhammedseydali" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/muhammed.seydali.771/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/muhammedseydali" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/the_second_twinn/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammed-seydali-bb1b521b0/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+- 🌍 &nbsp;Based in **Dubai, United Arab Emirates**
+- 💼 &nbsp;Working as a **Python / Odoo Developer**, building ERP solutions and full-stack web apps
+- 🧠 &nbsp;Currently leveling up in **AWS & DevOps**
+- 🚀 &nbsp;Goal: to be part of the next big billion-dollar startup
+- ✉️ &nbsp;Reach me at **[muhammedseydali007@gmail.com](mailto:muhammedseydali007@gmail.com)**
 
-### Badges
+<br/>
 
-<b>My GitHub Stats</b>
+## 🛠️ Tech Stack
 
-<a href="http://www.github.com/muhammedseydali"><img src="https://github-readme-stats.vercel.app/api?username=muhammedseydali&show_icons=true&hide=issues,contribs&title_color=10b981&text_color=84cc16&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="muhammedseydali's GitHub stats" /></a>
+<div align="center">
 
-<a href="http://www.github.com/muhammedseydali"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedseydali&stroke=84cc16&background=000000&ring=10b981&fire=10b981&currStreakNum=84cc16&currStreakLabel=10b981&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+**Languages & Core**
 
-<a href="http://www.github.com/muhammedseydali"><img src="https://activity-graph.herokuapp.com/graph?username=muhammedseydali&bg_color=000000&color=84cc16&line=3382ed&point=84cc16&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<b>Top Repositories</b>
+**Frameworks & Libraries**
 
-<div width="100%" align="center"><a href="https://github.com/muhammedseydali/django_new_store" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedseydali&repo=django_new_store&title_color=10b981&text_color=84cc16&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/muhammedseydali/Portfolio-personal" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedseydali&repo=Portfolio-personal&title_color=10b981&text_color=84cc16&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Support Me
+**Database & Cloud**
 
-<a href="https://www.buymeacoffee.com/muhammedseydali"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-make this more attractive
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammedseydali&show_icons=true&hide=issues,contribs&title_color=10b981&text_color=e6edf3&icon_color=3382ed&bg_color=0d1117&hide_border=true" alt="Muhammed's GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedseydali&stroke=0d1117&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=e6edf3&sideLabels=e6edf3&dates=6e7681&hide_border=true" alt="GitHub streak stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedseydali&bg_color=0d1117&color=3382ed&line=10b981&point=e6edf3&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub commits graph" width="97%" />
+
+</div>
+
+<br/>
+
+## 📌 Top Repositories
+
+<div align="center">
+
+<a href="https://github.com/muhammedseydali/django_new_store">
+<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedseydali&repo=django_new_store&title_color=10b981&text_color=e6edf3&icon_color=3382ed&bg_color=0d1117&hide_border=true" />
+</a>
+<a href="https://github.com/muhammedseydali/Portfolio-personal">
+<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedseydali&repo=Portfolio-personal&title_color=10b981&text_color=e6edf3&icon_color=3382ed&bg_color=0d1117&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-seydali-bb1b521b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/muhammedseydali)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://www.dev.to/muhammedseydali)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhammed.seydali.771/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/the_second_twinn/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedseydali007@gmail.com)
+
+</div>
+
+<br/>
+
+## ☕ Support Me
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/muhammedseydali">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" />
+</a>
+
+<br/><br/>
+
+*"Building things one commit at a time."*
+
+</div>
