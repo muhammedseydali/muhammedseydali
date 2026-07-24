@@ -60,8 +60,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammedseydali&show_icons=true&hide=issues,contribs&title_color=10b981&text_color=e6edf3&icon_color=3382ed&bg_color=0d1117&hide_border=true" alt="Muhammed's GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedseydali&stroke=0d1117&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=e6edf3&sideLabels=e6edf3&dates=6e7681&hide_border=true" alt="GitHub streak stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=muhammedseydali&show_icons=true&hide=issues,contribs&title_color=10b981&text_color=e6edf3&icon_color=3382ed&bg_color=0d1117&hide_border=true" alt="Muhammed's GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=muhammedseydali&stroke=0d1117&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=e6edf3&sideLabels=e6edf3&dates=6e7681&hide_border=true" alt="GitHub streak stats" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedseydali&bg_color=0d1117&color=3382ed&line=10b981&point=e6edf3&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub commits graph" width="97%" />
 
@@ -74,10 +74,10 @@
 <div align="center">
 
 <a href="https://github.com/muhammedseydali/django_new_store">
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedseydali&repo=django_new_store&title_color=10b981&text_color=e6edf3&icon_color=3382ed&bg_color=0d1117&hide_border=true" />
+<img align="center" width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=muhammedseydali&repo=django_new_store&title_color=10b981&text_color=e6edf3&icon_color=3382ed&bg_color=0d1117&hide_border=true" />
 </a>
 <a href="https://github.com/muhammedseydali/Portfolio-personal">
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedseydali&repo=Portfolio-personal&title_color=10b981&text_color=e6edf3&icon_color=3382ed&bg_color=0d1117&hide_border=true" />
+<img align="center" width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=muhammedseydali&repo=Portfolio-personal&title_color=10b981&text_color=e6edf3&icon_color=3382ed&bg_color=0d1117&hide_border=true" />
 </a>
 
 </div>
